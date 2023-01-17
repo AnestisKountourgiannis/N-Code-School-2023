@@ -15,3 +15,16 @@ internal class HelloName
         Console.ReadLine();
     }
 }
+public class Exercise2
+{
+    public static void Main()
+    {
+        int NumberA = 8;
+        int NumberB = 2;
+        int NumberC = NumberA + NumberB;
+        int NumberD = NumberA / NumberB;
+        Console.WriteLine(NumberC);
+        Console.WriteLine(NumberD);
+        Console.ReadLine();
+    }
+}
