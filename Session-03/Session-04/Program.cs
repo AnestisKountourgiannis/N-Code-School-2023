@@ -4,12 +4,24 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-string hello = "Hello";
-string name = "Fotis";
+internal class Program
+{
+    private static void Main(string[] args) 
+    { 
 
-Console.WriteLine(hello + " " + name);
 
-HelloName helloName = new HelloName();
-Console.WriteLine(helloName.Get());
+        Console.WriteLine("Hello, World!");
 
-Console.ReadLine();
+        
+        string hello = "Hello";
+    string name = "Anestis";
+
+    Console.WriteLine(hello + " " + name);
+
+        HelloName helloName = new HelloName();
+    Console.WriteLine(helloName.Get());
+
+        Console.ReadLine();
+
+    }
+}
