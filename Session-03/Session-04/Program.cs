@@ -21,10 +21,17 @@ public class Exercise2
     {
         int NumberA = 8;
         int NumberB = 2;
-        int NumberC = NumberA + NumberB;
-        int NumberD = NumberA / NumberB;
-        Console.WriteLine(NumberC);
-        Console.WriteLine(NumberD);
-        Console.ReadLine();
+        Console.WriteLine(NumberA+NumberB);
+        Console.WriteLine(NumberA/NumberB);
     }
 }
+int Act1 = ((-1) + (5 * 6) );
+Console.WriteLine(Act1);
+int Act2 = (38 + (5 % 7));
+Console.WriteLine(Act2);
+float Act3 = (14 + (((-3) * 6) / 7));
+Console.WriteLine(Act3);
+double Act4 = ((2 + (13 / 6)) * 6 + Math.Sqrt(7));
+Console.WriteLine(Act4);
+int Act5 = ((6 ^ 4) + (5 ^ 7) / ((9 % 4)));
+Console.WriteLine(Act5);
