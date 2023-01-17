@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-internal class Program
+internal class HelloName
 {
     private static void Main(string[] args)
     { 
@@ -12,11 +12,6 @@ internal class Program
         string name = "Anestis";
 
       Console.WriteLine(hello + " " + name);
-
-        HelloName helloName = new HelloName();
-      Console.WriteLine(helloName.Get());
-
         Console.ReadLine();
-
     }
 }
