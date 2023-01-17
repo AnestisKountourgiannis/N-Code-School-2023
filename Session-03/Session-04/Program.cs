@@ -35,3 +35,21 @@ double Act4 = ((2 + (13 / 6)) * 6 + Math.Sqrt(7));
 Console.WriteLine(Act4);
 int Act5 = ((6 ^ 4) + (5 ^ 7) / ((9 % 4)));
 Console.WriteLine(Act5);
+
+int n = 129600;
+
+int year = n / (365 * 86400);
+
+n = n % (365 * 86400);
+int day = n / (24 * 3600);
+
+n = n % (24 * 3600);
+int hour = n / 3600;
+
+n %= 3600;
+int minutes = n / 60;
+
+n %= 60;
+int seconds = n;
+
+Console.WriteLine(year + " " + "years " + day + " " + "days " + hour + " " + "hours " + minutes + " " + "minutes " + seconds + " " + "seconds ");
