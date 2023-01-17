@@ -4,15 +4,12 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Session_04
-{
-    public class HelloName
-    { 
-        public string Get()
-        { 
-            string hello = "Hello";
-            string name = "Anestis";
-            return hello + " " + name;
-        }
-    }
-}
+string hello = "Hello";
+string name = "Fotis";
+
+Console.WriteLine(hello + " " + name);
+
+HelloName helloName = new HelloName();
+Console.WriteLine(helloName.Get());
+
+Console.ReadLine();
