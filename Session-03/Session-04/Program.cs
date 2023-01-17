@@ -1,2 +1,12 @@
 ﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+namespace Session_04 {
+    public class HelloName
+    {
+        public string Get()
+        {
+            string hello = "Hello";
+            string name = "Fotis";
+            return hello + " " + name;
+        }
+    }
+}

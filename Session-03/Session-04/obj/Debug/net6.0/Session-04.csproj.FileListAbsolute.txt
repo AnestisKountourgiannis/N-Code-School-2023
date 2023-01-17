@@ -1,0 +1,5 @@
+C:\Users\User\source\repos\AnestisKountourgiannis\N-Code-School-2023\Session-03\Session-04\obj\Debug\net6.0\Session-04.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\AnestisKountourgiannis\N-Code-School-2023\Session-03\Session-04\obj\Debug\net6.0\Session-04.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\AnestisKountourgiannis\N-Code-School-2023\Session-03\Session-04\obj\Debug\net6.0\Session-04.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\AnestisKountourgiannis\N-Code-School-2023\Session-03\Session-04\obj\Debug\net6.0\Session-04.AssemblyInfo.cs
+C:\Users\User\source\repos\AnestisKountourgiannis\N-Code-School-2023\Session-03\Session-04\obj\Debug\net6.0\Session-04.csproj.CoreCompileInputs.cache
