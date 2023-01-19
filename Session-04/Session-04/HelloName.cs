@@ -6,9 +6,9 @@ using System.Threading.Tasks;
 
 namespace Session_04
 {
-   public class HelloName
+    public class HelloName
     {
-       public string Get()
+        public string Get()
         {
             string hello = "Hello";
             string name = "Anestis";
