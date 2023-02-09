@@ -1,7 +1,9 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\Session-04",
+    "\\Session-04\\Session-04"
   ],
-  "SelectedNode": "\\Session-03",
+  "SelectedNode": "\\Session-04\\Session-04\\SumDivision.cs",
   "PreviewInSolutionExplorer": false
 }

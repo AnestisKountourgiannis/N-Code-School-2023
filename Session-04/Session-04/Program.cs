@@ -1,7 +1,7 @@
 ﻿// See https://aka.ms/new-console-template for more information
 using Session_04;
 using System.Security.Cryptography.X509Certificates;
-public class Program
+public class HelloName
 {
     private static void main(string[] args)
     {
@@ -13,9 +13,10 @@ public class Program
 
 public class SumDivision
 {
-    private void main(string[] args)
+    private void (string[] args)
     {
         SumDivision sumdivision = new SumDivision();
         Console.WriteLine(sumdivision.GetHashCode());
+        Console.ReadLine();
     }
 }

@@ -8,7 +8,7 @@ namespace Session_04
 {
     public class SumDivision
     {
-        public static void Main(string[] args)
+        public static void main(string[] args)
         {
 
             Console.Write("A: ");
@@ -39,7 +39,7 @@ namespace Session_04
             int sum = num1 + num2;
             int division = num1 / num2;
             Console.WriteLine("\r\nThe sum of {0} + {1} is {2}", num1, num2, sum);
-            Console.WriteLine("\r\nThe division of {0} + {1} is {2}", num1, num2, division);
+            Console.WriteLine("\r\nThe division of {0} / {1} is {2}", num1, num2, division);
         }
     }
 }
